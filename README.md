@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=250&section=header&text=Bastian%20Rossi&fontSize=80&fontAlignY=35&desc=Desarrollador%20y%20Data%20Analysis&descAlignY=55&descAlign=50" />
 </div>
 
-<h1 align="center">Bastián Rossi Villalobos</h1>
-
 <p align="center">
   <em>Especializándome en la <strong>Automatización de Procesos</strong> y la toma de decisiones basada en datos.</em>
 </p>
