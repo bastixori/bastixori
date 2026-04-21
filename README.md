@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=250&section=header&text=Bastián%20Rossi&fontSize=80&fontAlignY=35&desc=Desarrollador%20de%20Software&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=250&section=header&text=Bastián%20Rossi&fontSize=80&fontAlignY=35&desc=Data%20%26%20Automation&descAlignY=55&descAlign=50" />
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Bastián Rossi Villalobos</h1>
 
 <p align="center">
-  <em>Desarrollador apasionado por crear experiencias web modernas, código limpio y soluciones eficientes.</em>
+  <em>Especializándome en la <strong>Automatización de Procesos</strong> y la toma de decisiones basada en datos.</em>
 </p>
 
 <p align="center">
@@ -19,33 +19,23 @@
 
 ---
 
-### 💻 Tecnologías y Herramientas
+### 🚀 Sobre Mí
+
+Cuento con experiencia práctica en:
+- 📊 **Análisis de Datos:** Procesamiento y limpieza de grandes volúmenes de datos para extraer información de valor.
+- 📈 **Creación de Dashboards:** Visualización interactiva y dinámica de KPIs para toma de decisiones.
+- ⚙️ **Automatización de Procesos:** Mi foco de especialización actual. Diseño flujos eficientes para reducir tiempos operativos y eliminar tareas manuales.
+- 💻 **Desarrollo:** Sólida base de programación con experiencia destacada en **Python** y **JavaScript**.
+
+---
+
+### 💻 Stack Tecnológico Principal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github,vscode" />
   </a>
 </p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bastixori&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043" alt="GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastixori&theme=vue-dark&hide_border=true&background=0D1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
-</div>
-
----
-
-### 🚀 Áreas de Desarrollo
-
-- 💎 **Desarrollo Web Frontend:** Creación de interfaces modernas, responsivas y de alto impacto visual ("Modo Claro/Oscuro", animaciones fluidas).
-- ⚙️ **Desarrollo Backend (APIs):** Arquitectura y diseño de APIs RESTful robustas para la gestión y estructuración de datos.
-- 📱 **Diseño UI/UX:** Enfoque en la experiencia de usuario y diseño *Glassmorphism* aplicado a plataformas comerciales.
 
 <br>
 
