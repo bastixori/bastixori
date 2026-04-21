@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=250&section=header&text=Bastian%20Rossi&fontSize=80&fontAlignY=35&desc=Data%20and%20Automation&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=250&section=header&text=Bastian%20Rossi&fontSize=80&fontAlignY=35&desc=Desarrollador%20y%20Data%20Analysis&descAlignY=55&descAlign=50" />
 </div>
 
 <h1 align="center">Bastián Rossi Villalobos</h1>
